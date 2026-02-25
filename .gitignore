@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+build/
+dist/
+.mypy_cache/
+.pytest_cache/
+.venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# Editor directories
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
